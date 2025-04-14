@@ -9,7 +9,7 @@ public class CompoundInterestCalculator {
 
         System.out.print("Enter deposit amount: ");
         double deposit = input.nextDouble();
-        System.out.print("Enter intrest rate: ");
+        System.out.print("Enter interest rate: ");
         double interestRate = input.nextDouble();
         System.out.print("Enter number of years: ");
         double years = input.nextDouble();
